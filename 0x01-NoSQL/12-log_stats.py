@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 12's module.
+''' provides some stats about Nginx logs stored in MongoDB
 '''
 from pymongo import MongoClient
 
